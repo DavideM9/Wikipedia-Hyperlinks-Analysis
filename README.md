@@ -12,4 +12,4 @@ We downloaded the files we were given in the homework text. The files are 3:
  - in `wiki-topcats-page-names.txt` there are the names of all the articles, so is specified the number of the article and its name.
  
 ## Jupyter Notebook
-`Homework05.ipynb` is a IPython notebook in which are displayed the methods we used.
+The file `Homework05.ipynb` is a IPython notebook in which are displayed the methods we used.
