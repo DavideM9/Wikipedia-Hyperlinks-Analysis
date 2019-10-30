@@ -1,4 +1,4 @@
-# ADM-Homework5-Group15
+# Wikipedia-Hyperlinks-Analysis
 Giuseppe Calabrese - Davide Manfredini - Ilaria Taddei
 
 # Homework 5 - Visit the Wikipedia hyperlinks graph!
